@@ -117,7 +117,7 @@
      0. As long as `left` and `right` both have elements not in `sorted`,
         compare the smallest such elements of each list, take the
         smaller of the two, and append it to `sorted`.
-     0. Once all of the elemtns of either `left` or `right` are in `sorted`,
+     0. Once all of the elements of either `left` or `right` are in `sorted`,
         take the leftover elements and append them to `sorted`.
 
    0. Return `sorted`.
